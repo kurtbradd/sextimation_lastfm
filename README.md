@@ -1,4 +1,4 @@
-#Sextimation JSON Parser
+#Sextimation
 ### Requirements
 - Scala v2.10.4
 - Spark v1.3.1
