@@ -1,0 +1,7 @@
+name := "Sextimation Parser"
+version := "1.0"
+scalaVersion := "2.10.4"
+libraryDependencies += "org.json4s" %% "json4s-native" % "3.2.11"
+libraryDependencies += "org.scala-lang" 		% "scala-library" 			% "2.10.4"
+libraryDependencies += "org.apache.spark" 	% "spark-core_2.10" 		% "1.1.0"
+libraryDependencies += "org.apache.spark" 	% "spark-mllib_2.10" 		% "1.1.0"
